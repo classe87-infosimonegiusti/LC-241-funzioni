@@ -1,0 +1,1 @@
+# LC-241-funzioni
